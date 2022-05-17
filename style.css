@@ -1,0 +1,273 @@
+.container{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.container1{
+    font-size: x-large;
+    font-weight: bolder;
+   display: flex;
+   -webkit-box-align: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: -17%;
+    margin-bottom: 32px;
+    width: 100%;
+    height: 100%;
+
+}
+.website{
+    font-size: xx-large;
+    color: white;
+    /* background-color: brown;s */
+}
+.container2{
+    margin-top: 20px;
+    margin-left: 37%;
+    width: 27%;
+    border: 2px solid black;
+    font-family: inherit;
+    font-weight: bolder;
+    font-size: x-large;
+    text-align: center;
+    cursor: pointer;
+    background-color: #7d705b;
+    text-decoration: none;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    height: 60px;
+    position: relative;
+    padding: 16px 20px;
+    appearance: none;
+    box-sizing: border-box;
+    vertical-align: middle;
+}
+.discord{
+    font-size: xx-large;
+    color: white; 
+}
+.twi{
+    font-size: xx-large;
+    color: white;
+}
+.you{
+    font-size: xx-large;
+    color: white;
+}
+.lin{
+    font-size: xx-large;
+    color: white;
+}
+
+.container3{
+    margin-top: 20px;
+    margin-left: 37%;
+    width: 27%;
+    border: 2px solid black;
+    font-family: inherit;
+    font-weight: bolder;
+    font-size: x-large;
+    text-align: center;
+    cursor: pointer;
+    background-color: #7d705b;
+    text-decoration: none;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    height: 60px;
+    position: relative;
+    padding: 16px 20px;
+    appearance: none;
+    box-sizing: border-box;
+    vertical-align: middle;
+
+}
+.container4{
+    margin-top: 20px;
+    margin-left: 37%;
+    width: 27%;
+    border: 2px solid black;
+    font-family: inherit;
+    font-weight: bolder;
+    font-size: x-large;
+    text-align: center;
+    cursor: pointer;
+    background-color: #7d705b;
+    text-decoration: none;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    height: 60px;
+    position: relative;
+    padding: 16px 20px;
+    appearance: none;
+    box-sizing: border-box;
+    vertical-align: middle;
+
+}
+.container5{
+    margin-top: 20px;
+    margin-left: 37%;
+    width: 27%;
+    border: 2px solid black;
+    font-family: inherit;
+    font-weight: bolder;
+    font-size: x-large;
+    text-align: center;
+    cursor: pointer;
+    background-color: #7d705b;
+    text-decoration: none;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    height: 60px;
+    position: relative;
+    padding: 16px 20px;
+    appearance: none;
+    box-sizing: border-box;
+    vertical-align: middle;
+
+}
+.container6{
+    margin-top: 20px;
+    margin-left: 37%;
+    width: 27%;
+    border: 2px solid black;
+    font-family: inherit;
+    font-weight: bolder;
+    font-size: x-large;
+    text-align: center;
+    cursor: pointer;
+    background-color: #7d705b;
+    text-decoration: none;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    height: 60px;
+    position: relative;
+    padding: 16px 20px;
+    appearance: none;
+    box-sizing: border-box;
+    vertical-align: middle;
+
+}
+#btn{
+    margin-top: 20px;
+    font-size: xx-large;
+    flex-shrink: 0;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+    color: rgb(17, 24, 33);
+    width: 42px;
+    height: 42px;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgb(215, 220, 225);
+    border-radius: 12px;
+justify-content: center;
+margin-left: 97%;
+     /* margin-right: auto; */
+}
+#fb{
+    width: 100px;
+height: 100px;
+margin-left: -100px;
+}
+#twigif{
+    width: 100px;
+    height: 100px;
+    margin-left: -112px;
+    margin-bottom: -102px;
+    /* margin-top: -4px; */
+}
+#whtsap{
+    margin-right: -2px;
+    width: 100px;
+    height: 117px;
+    margin-bottom: -226px;
+    margin-left: -99px;
+}
+#insta{
+    width: 100px;
+    height: 122px;
+    margin-bottom: -315px;
+    margin-left: -85px;
+    margin-top: -26px;
+}
+nav{
+    position: sticky;
+}
+#head{
+    margin: -7% 20px -9px 30px;
+}
+.footer{
+    
+    display: flex;
+    height: 18px;
+    width: 100%;
+    -webkit-box-pack: center;
+    justify-content: center;
+}
+#img{
+    margin-top: 25px;
+    font-size: xx-large;
+    flex-shrink: 0;
+    -webkit-box-pack: center;
+    justify-content: left;
+    -webkit-box-align: center;
+    align-items: normal;
+    color: rgb(17, 24, 33);
+   
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgb(215, 220, 225);
+  
+    justify-content: left;
+    margin-left: 5%;
+    
+    width: 58%;
+    height: 567%;
+ 
+}
+#tree{
+    font-size: -webkit-xxx-large;
+    margin-top: -87px;
+    margin-left: 285px ;
+}
+p:hover{
+    /* background-color: rgba(65, 97, 33, 0.874); */
+    color: black;
+}
+#web:hover{
+background-color: rgb(74, 117, 198);
+}
+#dis:hover{
+    background-color: rgb(74, 117, 198);
+}
+#tw:hover{
+    background-color: rgb(74, 117, 198);  
+}
+#yo:hover{
+    background-color: rgb(74, 117, 198);
+}
+#li:hover{
+    background-color: rgb(74, 117, 198);
+}
+body{
+    background-image: url(background.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
